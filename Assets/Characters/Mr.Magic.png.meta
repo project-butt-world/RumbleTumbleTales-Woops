@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 00fe2ebbdfc564984b83950a6ed20627
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hat
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2620
+        width: 625
+        height: 525
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Wand
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2733
+        width: 250
+        height: 379
+      alignment: 9
+      pivot: {x: .117261961, y: .104242891}
+    - name: Eyes
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2958
+        width: 487
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mouth
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2683
+        width: 175
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Str1
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 3001
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str1_O
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2121
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str2
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2817
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str2_O
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1923
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str3
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2917
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str3_O
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2021
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str4
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2880
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str4_O
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1986
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str5
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 2680
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str5_O
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1783
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str6
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 2702
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str6_O
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1799
+        width: 125
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str7
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2648
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str7_O
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1755
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str8
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2564
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str8_O
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1670
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str9
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2608
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str9_O
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1714
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str10
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2502
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str10_O
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1605
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str11
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2480
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str11_O
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1581
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str12
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2342
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str12_O
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1444
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str13
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2398
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str13_O
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1500
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str14
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 2955
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str14_O
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2061
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str15
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2783
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str15_O
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1886
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str16
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2577
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str16_O
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1671
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str17
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2561
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str17_O
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1664
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str18
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 2461
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str18_O
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1558
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str19
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 2333
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str19_O
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1434
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str20
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2314
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Str20_O
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1420
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Sparkles
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1314
+        width: 899
+        height: 714
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: FadedStars
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 408
+        width: 749
+        height: 615
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 33
+        width: 1132
+        height: 1050
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
