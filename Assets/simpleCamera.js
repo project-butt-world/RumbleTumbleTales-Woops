@@ -1,6 +1,6 @@
 ﻿#pragma strict
 
-public var target : Transform;
+var target : Transform;
 var distance : float;
 
 function Start () {
