@@ -1,0 +1,16 @@
+
+Basic Step by Step Instructions:
+
+- Go to Component / AI 
+
+- Choose and Assign the 'AI Behavior Default Setup' to your Character
+
+- Assign Animations
+
+- Adjust Properties
+
+Have Fun!
+
+For in-depth training on the AI Behavior System, please vist:
+
+http://www.walkerboystudio.com/html/aibehaviorsmadeeasy.html

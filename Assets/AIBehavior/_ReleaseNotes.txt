@@ -1,0 +1,128 @@
+
+Release Notes for AI Behaviors Made Easy
+
+=====================================================
+Version 1.3
+=====================================================
+
+Features:
+-----------
+
+Added an all new, easily expandable system where a developer can add new states and triggers easily.
+
+Added an advanced mode so a user can have a basic view or an advanced view while editting.
+
+Added the ability to have multiple instances of any state type.
+
+The current state for the AI is now hilighted green in the editor.
+
+Added a new SpeedExceeded trigger.
+
+Added a new GoToRandomState trigger.
+
+Added KeyUp and KeyDown triggers.
+
+
+Improvements:
+-----------
+
+Added up, down, add and remove button styles.
+
+Added reordering and removal of states.
+
+Added a plus button to add new states to an AI.
+
+Triggers are now seperate classes instead of being embedded into the BaseState class.
+
+Added an InspectorHelper code file that new states and triggers will use by default when creating a new state or trigger from its' skeleton class, respectively.
+
+Updated the GetHelpState to use the other AI's y position for pathfinding.
+
+Implemented generic and type based GetState(s) methods.
+
+Added spacing to make drawing the triggers look better.
+
+Added a new property to the SeekState, destroyTargetWhenReached which will destroy the target that the fsm is seeking when it is reached.
+
+Added ChangeActiveStateByIndex and ChangeActiveStateByName methods.
+
+
+Bugs Fixes:
+-----------
+
+Fixed a bug in the Timer Trigger where it was always returning true.
+
+Updated the vision cone to react and draw properly. It used to be twice the size that it should have been.
+
+Fixed a potential bug that could occur when calling ChangeState if the state passed was null.
+
+The IdleState now has the ai correctly rotated in the direction they entered the idle state in.
+
+Updated the Ranged Attack scene as it wasn't working properly before.
+
+
+Changes:
+-----------
+
+Set the default value of the cooldown time to be 0.
+
+Got rid of the intermediate class StateMachineData.
+
+RangedAttackState and MeleeAttackState are now just instances of AttackState (Do Not Use the RangedAttackState or MeleeAttackState components as they will be removed in a future release).
+
+HealState and SeekAmmoState are now instances of SeekState (Do Not Use the HealState or SeekAmmoState components as they will be removed in a future release).
+
+Renamed SetStates to ReplaceAllStates.
+
+Removed the State enumeration as it's now mostly useless.
+
+Removed a lot of unused code and variables.
+
+
+
+=====================================================
+Version 1.2.1
+=====================================================
+
+
+Features:
+-----------
+
+Added the ability to implement 3rd party path finding systems.
+
+Updated menu to have a non Nav Mesh setup option in case the user decides to use a 3rd party system. Labeled as "AI Behaviors Setup (No Nav Mesh Agent)".
+
+
+
+Improvements:
+-----------
+
+Removed the use of System.Reflection from the runtime code to allow for code stripping on mobile devices.
+
+Renamed the general property "Raycast Layers" to "Visual Obstruction Layers" and added a tooltip for it because it was confusing.
+
+Updated the GUI layout of the FleeState fleeTargetTag to be more consistent with the rest of the layout.
+
+Made getting the current state public.
+
+
+
+Bugs Fixes:
+-----------
+
+Fixed a bug where the animation from the attack slider in the editor would cause the animations to jitter if the attack state was selected.
+
+Fixed the Patrol state's Ping Pong mode since it wasn't working.
+
+Fixed a bug where the attack states weren't using the attack point variable.
+
+
+
+Changes:
+-----------
+
+Changed SeekItemsState to be called SeekStateBase and made it abstract.
+
+There is no more health field component selection since it was using System.Reflection in the runtime.
+
+Removed Character Stats script since it's no longer needed.
