@@ -3,11 +3,11 @@ using System.Collections;
 
 public class gotomagic : MonoBehaviour {
 
-	void Onlvl1( TapGesture gesture ) 
+	void Onlvl16( TapGesture gesture ) 
 	{
 		if( gesture.Selection )
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
-		AutoFade.LoadLevel(4 ,3,1,Color.black);
+		AutoFade.LoadLevel(5 ,3,1,Color.black);
 		//	    Application.LoadLevel (1);
 		
 		//		else

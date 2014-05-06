@@ -3,7 +3,7 @@ using System.Collections;
 
 public class gotowildwest : MonoBehaviour {
 
-	void Onlvl1( TapGesture gesture ) 
+	void Onlvl4( TapGesture gesture ) 
 	{
 		if( gesture.Selection )
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
