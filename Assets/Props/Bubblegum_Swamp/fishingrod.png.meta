@@ -45,11 +45,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 197
-        y: 144
+        y: 141
         width: 673
         height: 1142
       alignment: 9
-      pivot: {x: .107701518, y: .0975927934}
+      pivot: {x: .0600828305, y: .050988581}
     - name: fishingrod_1
       rect:
         serializedVersion: 2
@@ -58,7 +58,7 @@ TextureImporter:
         width: 86
         height: 601
       alignment: 9
-      pivot: {x: .23699525, y: .982413769}
+      pivot: {x: .221488059, y: .990878642}
     - name: fishingrod_2
       rect:
         serializedVersion: 2
@@ -66,7 +66,7 @@ TextureImporter:
         y: 37
         width: 58
         height: 1317
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 1
+      pivot: {x: 0, y: 1}
   spritePackingTag: 
   userData: 

@@ -21,25 +21,70 @@ TextureImporter:
   generateCubemap: 0
   seamlessCubemap: 0
   textureFormat: -2
-  maxTextureSize: 4096
+  maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Icecream_Clouds_0
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 575
+        width: 249
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Icecream_Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 459
+        width: 254
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Icecream_Clouds_2
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 610
+        width: 234
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Icecream_Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 479
+        width: 254
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Icecream_Clouds_4
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 530
+        width: 254
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
   spritePackingTag: 
   userData: 
