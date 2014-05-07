@@ -35,7 +35,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
-  spritePixelsToUnits: 40
+  spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
@@ -48,8 +48,8 @@ TextureImporter:
         y: 1093
         width: 508
         height: 474
-      alignment: 9
-      pivot: {x: .580874741, y: .0823802054}
+      alignment: 0
+      pivot: {x: .5, y: .5}
     - name: Cosmo_Torso
       rect:
         serializedVersion: 2
@@ -65,18 +65,18 @@ TextureImporter:
         x: 81
         y: 410
         width: 167
-        height: 267
-      alignment: 9
-      pivot: {x: .615953088, y: .928556859}
+        height: 578
+      alignment: 0
+      pivot: {x: .5, y: .5}
     - name: Cosmo_RightArm
       rect:
         serializedVersion: 2
         x: 372
         y: 401
         width: 154
-        height: 276
-      alignment: 9
-      pivot: {x: .328534216, y: .927338541}
+        height: 587
+      alignment: 0
+      pivot: {x: .5, y: .5}
     - name: Cosmo_LeftLeg
       rect:
         serializedVersion: 2
@@ -84,8 +84,8 @@ TextureImporter:
         y: 130
         width: 171
         height: 490
-      alignment: 9
-      pivot: {x: .180866793, y: .949076474}
+      alignment: 0
+      pivot: {x: .5, y: .5}
     - name: Cosmo_RightLeg
       rect:
         serializedVersion: 2
@@ -93,25 +93,7 @@ TextureImporter:
         y: 151
         width: 165
         height: 484
-      alignment: 9
-      pivot: {x: .158593386, y: .947369158}
-    - name: Cosmo_RArm_uppr
-      rect:
-        serializedVersion: 2
-        x: 372
-        y: 676
-        width: 108
-        height: 312
-      alignment: 9
-      pivot: {x: .239203274, y: .528211176}
-    - name: Cosmo_LArm_upper
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 676
-        width: 118
-        height: 312
-      alignment: 9
-      pivot: {x: .78345114, y: .550780058}
+      alignment: 0
+      pivot: {x: .5, y: .5}
   spritePackingTag: 
   userData: 
