@@ -29,7 +29,8 @@ public class gofish : MonoBehaviour {
 		if( gesture.Selection)
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
 		//  dooranim.Play ("DoorOpenYellow");
-		fizzanim.CrossFade("Fizz_Walk",1.0f);
+		fizzanim.CrossFade("Fizz_Fishing",0.6f);
+
 		//Object.Destroy(this, 0.9f);
 		// tapped = true;
 		// this.transform.Translate(Vector2.up * Time.deltaTime, Space.World);
