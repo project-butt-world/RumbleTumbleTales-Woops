@@ -7,7 +7,7 @@ using System.Collections;
 /// </summary>
 public class DemoController : MonoBehaviour 
 {
-    public bool automatic = true;   //in automatic mode we'll play a looping page turning animation
+    public bool automatic = false;   //in automatic mode we'll play a looping page turning animation
     bool canFlip = true;    //in manual mode, we only listen to events when we can flip the page
 
     PageCurl curler;    //we store here the reference to the PageCurl component
