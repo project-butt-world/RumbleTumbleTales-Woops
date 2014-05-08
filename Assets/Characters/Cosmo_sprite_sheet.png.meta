@@ -113,5 +113,23 @@ TextureImporter:
         height: 312
       alignment: 9
       pivot: {x: .78345114, y: .550780058}
+    - name: Cosmo_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1188
+        width: 396
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Cosmo_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 725
+        width: 161
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
   spritePackingTag: 
   userData: 

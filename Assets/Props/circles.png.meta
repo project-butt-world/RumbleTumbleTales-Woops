@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 46f116d612e1b498dbaaa97bc8e3b4b4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: circles_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 89
+        width: 882
+        height: 842
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: circles_1
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 89
+        width: 886
+        height: 840
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: circles_2
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 112
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: circles_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 77
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: circles_4
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 77
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: circles_5
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 77
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: circles_6
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 77
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: circles_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 71
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: circles_8
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 71
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

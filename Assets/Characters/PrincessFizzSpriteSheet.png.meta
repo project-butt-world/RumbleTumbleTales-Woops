@@ -113,5 +113,32 @@ TextureImporter:
         height: 454
       alignment: 0
       pivot: {x: .5, y: .5}
+    - name: PrincessFizzSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1362
+        width: 224
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PrincessFizzSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1458
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PrincessFizzSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1255
+        width: 182
+        height: 203
+      alignment: 9
+      pivot: {x: .272580326, y: .862478495}
   spritePackingTag: 
   userData: 
