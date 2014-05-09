@@ -7,7 +7,7 @@ public class gotowildwest : MonoBehaviour {
 	{
 		if( gesture.Selection )
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
-		AutoFade.LoadLevel(5 ,3,1,Color.black);
+		AutoFade.LoadLevel(4 ,3,1,Color.black);
 		//	    Application.LoadLevel (1);
 		
 		//		else

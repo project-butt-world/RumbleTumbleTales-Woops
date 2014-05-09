@@ -7,7 +7,7 @@ public class gotolava : MonoBehaviour {
 	{
 		if( gesture.Selection )
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
-		AutoFade.LoadLevel(3 ,3,1,Color.black);
+		AutoFade.LoadLevel(2 ,3,1,Color.black);
 		//	    Application.LoadLevel (1);
 		
 		//		else

@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class gotomagic : MonoBehaviour {
+public class blerns : MonoBehaviour {
 
-	void Onlvl16( TapGesture gesture ) 
+	void Onblerns( TapGesture gesture ) 
 	{
 		if( gesture.Selection )
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
