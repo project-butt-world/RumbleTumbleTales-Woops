@@ -3,7 +3,7 @@ using System.Collections;
 
 public class gotomagic : MonoBehaviour {
 	
-	void Onblerns( TapGesture gesture ) 
+	void OnTap( TapGesture gesture ) 
 	{
 		if( gesture.Selection )
 			Debug.Log( "Tapped object: " + gesture.Selection.name );
